@@ -3849,7 +3849,7 @@ function GetCurrentFileURL() {
 }
 currentJavascriptURL = GetCurrentFileURL();
 // const magickWorkerUrl = GetCurrentUrlDifferentFilename(currentJavascriptURL, 'magick.js');
-const magickWorkerUrl = window.PLUGIN_LIST['U98W1HXD.js'];
+const magickWorkerUrl = window.PLUGIN_LIST['U98W1HXD'];
 
 
 function GenerateMagickWorkerText(magickUrl) {
